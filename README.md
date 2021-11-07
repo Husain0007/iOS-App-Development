@@ -3,5 +3,5 @@
  
  ## xCode Layout Overview
  Provided by [AppBrewery](https://www.appbrewery.co/)
- ![alt text](https://github.com/Husain0007/iOS-App-Development/blob/main/Images/xCode-Layout.jpg "Logo Title Text 1")
+ ![alt text](https://github.com/Husain0007/iOS-App-Development/blob/main/Images/MapOfxCode.jpg "Logo Title Text 1")
 
